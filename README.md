@@ -1,2 +1,2 @@
 # OpenGaze
-n open source library for eye gaze tracking
+An open source library for eye gaze tracking
